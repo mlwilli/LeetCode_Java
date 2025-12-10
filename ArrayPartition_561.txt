@@ -1,3 +1,5 @@
+// Try recursively for fun
+
 import java.util.Arrays;
 public class Solution {
     public int arrayPairSum(int[] nums) {
@@ -22,4 +24,5 @@ public class Solution {
         }
         return max;
     }
+
 }
